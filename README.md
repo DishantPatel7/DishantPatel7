@@ -9,10 +9,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dishantpatel2782/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dishant Patel" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and libraries :</h3>
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="" />   
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Languages and libraries" />   
+</p>
+
+<h3 align="left">Tools :</h3>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=github,vscode,vite" alt="Tools" />   
 </p>
