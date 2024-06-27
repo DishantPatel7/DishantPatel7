@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href=""http://www.linkedin.com/in/dishantpatel2782>
 <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />  
+</a>
 </p>
 
 <h3 align="left">Languages and libraries :</h3>
