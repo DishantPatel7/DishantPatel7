@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dishantpatel2782@gmail.com**
 
-- 📫 See my --> **<a href="https://dishantpatel7.github.io/Portfolio/" target="blank">Portfolio<a/>**
+- 📫 See my --> **<a href="https://dishantpatel7.github.io/Portfolio/" target="_blank">Portfolio<a/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
