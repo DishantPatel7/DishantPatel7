@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishantpatel7&label=Profile%20views&color=0e75b6&style=flat" alt="DishantPatel7" /> </p>
 
+- 📫 See my --> **<a href="https://dishantpatel7.github.io/Portfolio/" target="_blank">Portfolio<a/>**
+  
 - 🌱 I’m currently mastering **ReactJS**
 
 - 📫 How to reach me **dishantpatel2782@gmail.com**
-
-- 📫 See my --> **<a href="https://dishantpatel7.github.io/Portfolio/" target="_blank">Portfolio<a/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
